@@ -5,10 +5,7 @@
       "src/App.less"
     ],
     "delete": [
-      "src/App.css",
-      "src/App.sass",
-      "src/App.scss",
-      "src/App.styl"
+      "src/App.(css|sass|scss|styl)"
     ],
     "merge": [
       "src/App.(js|tsx)",
